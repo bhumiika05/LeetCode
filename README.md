@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/bhumiika05/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/bhumiika05/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/bhumiika05/LeetCode/tree/master/0070-climbing-stairs) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/bhumiika05/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/bhumiika05/LeetCode/tree/master/3310-remove-methods-from-project) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/bhumiika05/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
