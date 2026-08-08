@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/bhumiika05/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/bhumiika05/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/bhumiika05/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/bhumiika05/LeetCode/tree/master/0067-add-binary) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/bhumiika05/LeetCode/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/bhumiika05/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Hash Table
 |  |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/bhumiika05/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/bhumiika05/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
