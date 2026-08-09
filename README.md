@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhumiika05/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/bhumiika05/LeetCode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/bhumiika05/LeetCode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/bhumiika05/LeetCode/tree/master/0088-merge-sorted-array) |
 | [3731-find-missing-elements](https://github.com/bhumiika05/LeetCode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhumiika05/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/bhumiika05/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bhumiika05/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/bhumiika05/LeetCode/tree/master/0088-merge-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/bhumiika05/LeetCode/tree/master/0088-merge-sorted-array) |
 | [3731-find-missing-elements](https://github.com/bhumiika05/LeetCode/tree/master/3731-find-missing-elements) |
 ## Depth-First Search
 |  |
