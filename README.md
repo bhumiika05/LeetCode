@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bhumiika05/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/bhumiika05/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/bhumiika05/LeetCode/tree/master/0067-add-binary) |
+| [1927-sum-game](https://github.com/bhumiika05/LeetCode/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bhumiika05/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Trie
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/bhumiika05/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/bhumiika05/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/bhumiika05/LeetCode/tree/master/0070-climbing-stairs) |
+| [1927-sum-game](https://github.com/bhumiika05/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/bhumiika05/LeetCode/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/bhumiika05/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/bhumiika05/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/bhumiika05/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/bhumiika05/LeetCode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/bhumiika05/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/bhumiika05/LeetCode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
