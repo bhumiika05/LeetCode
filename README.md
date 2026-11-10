@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/bhumiika05/LeetCode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/bhumiika05/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/bhumiika05/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0704-binary-search](https://github.com/bhumiika05/LeetCode/tree/master/0704-binary-search) |
 | [2029-stone-game-ix](https://github.com/bhumiika05/LeetCode/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bhumiika05/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bhumiika05/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/bhumiika05/LeetCode/tree/master/0069-sqrtx) |
+| [0704-binary-search](https://github.com/bhumiika05/LeetCode/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
 | ------- |
