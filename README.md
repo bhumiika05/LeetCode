@@ -104,14 +104,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/bhumiika05/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3310-remove-methods-from-project](https://github.com/bhumiika05/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/bhumiika05/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3310-remove-methods-from-project](https://github.com/bhumiika05/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
 | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/bhumiika05/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3310-remove-methods-from-project](https://github.com/bhumiika05/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Enumeration
 |  |
@@ -178,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhumiika05/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/bhumiika05/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
